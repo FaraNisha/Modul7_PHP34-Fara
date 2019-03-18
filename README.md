@@ -1,0 +1,1 @@
+# Modul7_PHP34-Fara
